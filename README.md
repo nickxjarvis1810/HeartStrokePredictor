@@ -1,5 +1,10 @@
 # ❤️ Heart Stroke Prediction using Machine Learning
 
+## 🌐 Live Demo
+
+🔗 **Try the app here:** https://heartstrokepredictor-hf92x9ipudiprrsbmswavh.streamlit.app/
+
+
 A Machine Learning web application that predicts the likelihood of heart disease based on a patient's medical information. The application is built using **Python**, **Scikit-learn**, and **Streamlit**.
 
 ---
